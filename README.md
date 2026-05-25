@@ -22,3 +22,13 @@ Aqui teneis la documentación de tabulate:
  
 GitHub - astanin/python-tabulate: Pretty-print tabular data in Python, a library and a command-line …
 https://github.com/astanin/python-tabulate#headers
+
+
+EJERCICO RAMA
+
+Crear una nueva funcion para formatear los gastos, y un test
+no hace falta que añadais mas
+lo mas importante
+esto debe hacerse en una rama de desarrollo, NO EN MAIN
+una vez hecho esto, subid los cambios a esa rama de desarrollo, y despues haced un merge a main, y subid esos cambios tambien
+ 
