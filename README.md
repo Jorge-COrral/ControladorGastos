@@ -31,4 +31,23 @@ no hace falta que añadais mas
 lo mas importante
 esto debe hacerse en una rama de desarrollo, NO EN MAIN
 una vez hecho esto, subid los cambios a esa rama de desarrollo, y despues haced un merge a main, y subid esos cambios tambien
+
+
+
+
+EJERCICO PULL REQUEST (PR)
+
+tenemos un proyecto de gestión de gastos, tenemos que convertir la lógica que tenemos en funciones a objeto
+ 
+para ello, en la rama desarrollo, tendréis que crear una nueva rama para ese cambio, hacer los cambios, y cuando este todo hecho subirlo a github, entonces tendréis que hacer una PR (pull request) contra desarrollo
+ 
+puntos extra si hacéis primero los tests
+ 
+(test driven development)
+ 
+podéis practicar el git stash si queréis, los comandos son list, show, apply y pop
+ 
+me tenéis que dar el enlace de la pull request
+ 
+ya sea mergeada o no, no importa (aunque lo mejor es que esperéis a que os de el approve jeje)
  
