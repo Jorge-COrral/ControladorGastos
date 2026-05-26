@@ -1,6 +1,6 @@
 from tabulate import tabulate
 
-class Funciones:
+class Gasto:
     def __init__(self):
         
         self.lista_gastos = [
@@ -25,5 +25,5 @@ class Funciones:
     def imprimir_lista(self):
         print(tabulate(self.lista_gastos, headers=self.headers))
     
-    def FormatearLista(self):
+    def formatear_lista(self):
         print(tabulate(self.lista_gastos, headers=self.headers, tablefmt="grid"))

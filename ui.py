@@ -1,9 +1,9 @@
-from FuncionesPrograma import Funciones
+from FuncionesPrograma import Gasto
 
 
 class UserInterface:
     def menu_inicial(self):
-        funciones = Funciones()
+        funciones = Gasto()
         
         print("HERRAMIENTA DE GESTIÓN DE GASTOS")
 
@@ -13,7 +13,7 @@ class UserInterface:
             if opcion_usuario == "1":
                 funciones.imprimir_lista()
             elif opcion_usuario == "2":
-                funciones.FormatearLista()
+                funciones.formatear_lista()
             elif opcion_usuario == "3":
                 funciones.nuevo_gasto_man()
             elif opcion_usuario == "4":
